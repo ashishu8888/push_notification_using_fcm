@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436613612102",
+    "project_id": "push-notification-app-dfcf8",
+    "storage_bucket": "push-notification-app-dfcf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436613612102:android:9d18001ad0816f8ca84047",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_using_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436613612102-3714b5je7kaa173hndqbeg7ocltugnnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxp5gOgTigMdEKSUaeSwTSwqeOxYMaeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436613612102-3714b5je7kaa173hndqbeg7ocltugnnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
